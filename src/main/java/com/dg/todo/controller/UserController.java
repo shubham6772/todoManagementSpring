@@ -54,8 +54,5 @@ public class UserController {
 
         return new ResponseEntity<>(allUsers, HttpStatus.OK);
     }
-
-
-
-
+    
 }
